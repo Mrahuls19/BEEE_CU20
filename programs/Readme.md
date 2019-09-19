@@ -1,1 +1,1 @@
-This fodler contains the codes of the experiment to be covered in this course
+This fodler contains the codes of the experiment done in BEEE lab
