@@ -1,1 +1,1 @@
-The folder contains the photos of hardware of experiments
+The folder contains the images of hardware related to experiments
